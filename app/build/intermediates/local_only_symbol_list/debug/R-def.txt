@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnHitung
+id editText1
+id editText2
+id mainLayout
+id radioBagi
+id radioGroup
+id radioKali
+id radioKurang
+id radioTambah
+id recHistory
+id textViewHasil
+id txtHasil
+id txtNum1
+id txtNum2
+id txtOperator
+id txtViewAssignment
+layout activity_main
+layout history_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.AplikasiKalkulator
+xml backup_rules
+xml data_extraction_rules
